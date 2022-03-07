@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #eee;
+}
+
+a[href] {
+  text-decoration: none;
+}
+
+.text-link {
+  color: #4471b7;
+  cursor: pointer;
+}
